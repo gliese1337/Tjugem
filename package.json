@@ -1,0 +1,19 @@
+{
+  "name": "tjugem",
+  "version": "1.0.0",
+  "description": "Utilities for the Tjugem conlang.",
+  "main": "bin/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^16.11.10",
+    "@types/wav-encoder": "^1.3.0",
+    "typescript": "^4.5.2",
+    "wav-encoder": "^1.3.0",
+    "whistle-synthesis": "^3.0.2"
+  }
+}
